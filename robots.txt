@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://igoqoaxu.github.io/NdF/sitemap_index.txt
+Sitemap: https://igoqoaxu.github.io/Xoe/sitemap_index.txt
+Sitemap: https://igoqoaxu.github.io/Xyj/sitemap_index.txt
+Sitemap: https://igoqoaxu.github.io/mAY/sitemap_index.txt
